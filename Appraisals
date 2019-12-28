@@ -13,3 +13,8 @@ appraise 'rails-5.2' do
   gem 'activerecord', '~> 5.2.2'
   gem 'standalone_migrations', '~> 5.2.7'
 end
+
+appraise 'rails-6.0' do
+  gem 'activerecord', '~> 5.2.2'
+  gem 'standalone_migrations', '~> 5.2.7'
+end
